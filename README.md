@@ -69,7 +69,7 @@ Here are some ideas to get you started:
                     Car-Moving-Animation
                 </td>
                 <td>
-                    <a href="https://iampurvang5.github.io/Car-Moving-Animation/">Lets-Shop-Site</a>
+                    <a href="https://iampurvang5.github.io/Car-Moving-Animation/">Car Moving Animation</a>
                 </td>
             </tr>
 
