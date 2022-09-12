@@ -10,7 +10,7 @@ My Name is Purvang Prajapati.
     ✅ AngularJS Framework
     ✅ ReactJS
     
-### 🏆 Programming Languages
+### Programming Languages
     ✅ C language
     ✅ JavaScript
     ✅ Familier with Java and Python
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+🏆 Projects
 <html>
 <body>
 <div class="container">
