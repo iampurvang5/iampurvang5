@@ -2,13 +2,19 @@
 My Name is Purvang Prajapati.
 ### 🚀 About Me
     I am a Web-Devloper
-### 🛠 Skills
+### 🛠 Technical Skills
     ✅ HTML
     ✅ CSS
     ✅ Bootstrap
     ✅ JavaScript
-    ✅ PHP
-### 🏆 Projects
+    ✅ AngularJS Framework
+    ✅ ReactJS
+    
+### 🏆 Programming Languages
+    ✅ C language
+    ✅ JavaScript
+    ✅ Familier with Java and Python
+
     
     
 
