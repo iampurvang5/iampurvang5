@@ -1,7 +1,8 @@
 ### Hi there 👋
 My Name is Purvang Prajapati.
 ### 🚀 About Me
-    I am a Web-Devloper
+    I am a Web-Devloper.
+    I love everything that has to do with the world of Programming And Web Development!
 ### 🛠 Technical Skills
     ✅ HTML
     ✅ CSS
